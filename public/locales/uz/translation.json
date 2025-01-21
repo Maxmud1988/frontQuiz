@@ -1,0 +1,40 @@
+{
+  "form": {
+    "title": "Ro‘yxatdan o‘tish",
+    "username": "Foydalanuvchi nomi",
+    "email": "Elektron pochta",
+    "password": "Parol",
+    "confirmPassword": "Parolni tasdiqlang",
+    "terms": "Maxfiylik siyosati shartlarini qabul qilaman",
+    "submit": "Ro`yhatdan o`tish",
+    "google": "Google orqali ro‘yxatdan o‘tish",
+    "alreadyHaveAccount": "Agar akkauntingiz bo'lsa,",
+    "signIn": "kirish",
+    "loading": "Jarayon davom etmoqda...",
+    "successMessage": "Ro‘yxatdan o‘tish muvaffaqiyatli yakunlandi!",
+    "termsPrefix": "Men qabul qilaman",
+    "privacyPolicy": "maxfiylik siyosati shartlarini",
+    "signInTitle": "Kirish",
+    "signInButton": "Kirish",
+    "signInSuccess": "Muvaffaqiyatli tizimga kirdingiz!",
+    "noAccount": "Akkauntingiz yo'qmi?",
+    "signUp": "Ro'yxatdan o'tish"
+  },
+  "errors": {
+    "required": "Bu maydonni to‘ldirish majburiy",
+    "emailInvalid": "Yaroqli elektron pochta manzilini kiriting",
+    "passwordMatch": "Parollar bir xil bo‘lishi kerak",
+    "unknownError": "Noma’lum xato yuz berdi."
+  },
+  "privacyPolicy": {
+    "title": "Maxfiylik siyosati",
+    "welcome": "Bizning ilovamizga xush kelibsiz!",
+    "intro": "Biz sizning maxfiyligingizga katta ahamiyat beramiz va ma'lumotlaringizni qanday yig‘ib, ishlatib va himoya qilishimizni tushunishingizni xohlaymiz.",
+    "points": {
+      "1": "Siz haqingizdagi ma'lumotlarni xizmatimizni yaxshilash uchun yig‘amiz. Masalan, elektron pochta manzilingiz muloqot uchun ishlatiladi.",
+      "2": "Ma'lumotlaringizni sizning roziligingizsiz uchinchi shaxslarga bermaymiz.",
+      "3": "Ma'lumotlaringiz xavfsiz va ishonchli serverlarda saqlanadi."
+    },
+    "contact": "Maxfiylik siyosatimiz haqida savollaringiz bo‘lsa, biz bilan bog‘laning."
+  }
+}
